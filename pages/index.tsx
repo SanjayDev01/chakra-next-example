@@ -187,7 +187,6 @@ export default function Index() {
                 border="1px"
                 rounded="none"
               >
-                {" "}
                 Start
               </Button>
             </Box>
