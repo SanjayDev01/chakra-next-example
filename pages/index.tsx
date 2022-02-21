@@ -55,7 +55,6 @@ export default function Index() {
               color="white"
               border="1px"
               _hover={{ color: "black", bg: "#F5F5F5" }}
-              rounded="none"
             >
               Create meeting
             </Button>
@@ -174,7 +173,6 @@ export default function Index() {
                 backgroundColor="white"
                 border="1px"
                 _hover={{ color: "black", bg: "#F5F5F5" }}
-                rounded="none"
               >
                 Copy Link
               </Button>
@@ -185,7 +183,6 @@ export default function Index() {
                 color="white"
                 _hover={{ color: "black", bg: "#F5F5F5" }}
                 border="1px"
-                rounded="none"
               >
                 Start
               </Button>
